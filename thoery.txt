@@ -1,0 +1,26 @@
+1. What is Node.js?
+- Node.js is a cross-platform,open-source javascript runtime environment that allow outside the browser.
+- It is built on chrome's v8 javascript engine
+- Node.js allows devlopers to use javascript server-side scripting
+
+2. What is cross-platform?
+- cross-platform refer to software that can run on multiple operating system like window,macOS,Linux etc...
+
+3. What is a server?
+- Server is a client to request server or server to responce the client it called.
+
+4 What is Server-side scripting?
+- server-side scripting involves writing code that run the server rather than the client's browser.
+
+5 Alternative of Node.js?
+- PHP,JAVA,RUBY,PYTHON uses of Node.js
+
+6 What is REPL?
+-  REPL - Read Eval Print Loop
+-  REPL is run in terminal
+  Read - input data structure
+  Eval - Evalulation in data structure
+  Print - Result of the Evalulation
+  Loop - exit the REPL
+  
+   
